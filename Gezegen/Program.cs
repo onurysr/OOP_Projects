@@ -12,6 +12,7 @@ namespace Gezegen
         public double yerCekim;
         private string ad;
         private static int sayac;
+
         public Gezegen(int r,double g,string n)
         {
             yariCap = r;
